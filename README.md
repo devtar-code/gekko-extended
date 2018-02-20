@@ -1,2 +1,2 @@
 # gekko-extended
-Extended version of popular Bitcoin trading bot, Gekko
+Extended version of popular open source trading bot, Gekko
